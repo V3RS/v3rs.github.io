@@ -5,3 +5,8 @@
   position: relative;
   bottom: 20px;
 }
+
+.pro__pic:hover {
+  transform: scale(1.02);
+  cursor: pointer;
+}
