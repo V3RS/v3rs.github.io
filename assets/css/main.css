@@ -3381,7 +3381,7 @@ body.is-touch .spotlight {
 .wrapper.style2 .button.primary {
   background-color: #ffffff;
   /* color: #e44c65 !important; */
-  color: steelblue !important;
+  color: green !important;
 }
 
 .wrapper.style2 input[type="submit"].primary:hover,
