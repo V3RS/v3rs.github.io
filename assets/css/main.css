@@ -2297,7 +2297,7 @@ header.major {
 
 header.major:after {
   /* background: #e44c65; */
-  background: cyan;
+  background: green;
   content: "";
   display: inline-block;
   height: 0.2em;
