@@ -2,7 +2,7 @@
 import { FileTextIcon, GithubIcon, LinkedinIcon } from 'lucide-react';
 import { SectionHeading } from './SectionHeading';
 import golfImg from '../assets/golf.jpg';
-import veerImg from '../assets/veer.png';
+import meImg from '../assets/veer.png';
 import snowboardImg from '../assets/snowboard.jpg';
 import resumePdf from '../assets/Singh_Veerkaran_Resume.pdf';
 
@@ -18,7 +18,7 @@ export function About() {
                 <img src={golfImg} alt="Golfing activity" className="w-full h-auto rounded-lg shadow-md dark:shadow-gray-700 object-cover aspect-square transition-all duration-300" />
               </div>
               <div className="col-span-1">
-                <img src={veerImg} alt="Veer Singh" className="w-full h-auto rounded-lg shadow-md dark:shadow-gray-700 object-cover aspect-square transition-all duration-300" />
+                <img src={meImg} alt="Veer Singh" className="w-full h-auto rounded-lg shadow-md dark:shadow-gray-700 object-cover aspect-square transition-all duration-300" />
               </div>
               <div className="col-span-2">
                 <img src={snowboardImg} alt="Snowboarding activity" className="w-full h-auto rounded-lg shadow-md dark:shadow-gray-700 object-cover aspect-video transition-all duration-300" />
