@@ -43,6 +43,11 @@ A modern, responsive portfolio website showcasing my projects and experience. Bu
    npm run build
    ```
 
+## Links
+
+- **Live Site**: [vsingh.dev](https://vsingh.dev)
+- **Email**: [vsdev97@gmail.com](mailto:vsdev97@gmail.com)
+
 ## Contact
 
-For questions or collaboration opportunities, feel free to reach out at [vsdev97@gmail.com](mailto:vsdev97@gmail.com).
+For questions or collaboration opportunities, feel free to reach out!
